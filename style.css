@@ -1,0 +1,97 @@
+body {
+    text-align: center;
+
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+
+}
+
+#hobbytitle {
+    font-size: 70px;
+}
+
+#hobbytitle:hover {
+    font-family: 'Caveat', cursive;
+    font-size: 70px;
+    background-color: white;
+}
+
+img {
+    width: 150px;
+    border-radius: 60px;
+    border: 40px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 4px;
+}
+
+#phobby {
+    font-size: 30px 
+}
+
+
+
+#hobby:hover {
+     font-family: 'Caveat', cursive;
+    padding: 20px;
+    background-color: white;
+}
+
+
+.line {
+    height: 7px;
+    background-color: black;
+    width: 100px;
+    margin: 2px auto;
+}
+
+.menu {
+    list-style: none;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    font-family: Permanent Marker, cursive;
+    font-size: 20px;
+    position: sticky;
+}
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: coral;
+}
+
+li {
+    float: right;
+}
+
+li {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+}
+
+.menu:hover {
+    background-color: white;
+}
+
+#about:hover {
+    font-family: 'Kaushan Script', cursive;
+    background: rgb(34, 193, 195);
+    background: radial-gradient(circle, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
+
+#abouttitle {
+    font-size: 70px;
+}
+
+#pabout {
+    font-size: 30px;
+}
